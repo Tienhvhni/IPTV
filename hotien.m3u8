@@ -1,4 +1,4 @@
-# EXTM3U url-tvg = “http://iptvx.one/epg/epg_lite.xml.gz”
+# EXTM3U url-tvg=“http://iptvx.one/epg/epg_lite.xml.gz”
 #EXTINF:0,VTV1 HD
 #EXTGRP:VTV
 https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
